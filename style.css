@@ -1,3 +1,15 @@
 body{
     background-color: rgb(17, 27, 18);
 }
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    color: white;
+}
+.krnl{
+    background: none;
+    color: aliceblue;
+    border: none;
+}
